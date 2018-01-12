@@ -17,7 +17,7 @@ html, body {
 
 body {
   background-color: white;
-  font: 15.34px helvetica, arial, clean, sans-serif;
+  font: 16.66px helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: center;
 }
@@ -79,7 +79,7 @@ ul.posts {
 /*****************************************************************************/
 
 .site {
-  font-size: 110%;
+  font-size: 120%;
   text-align: justify;
   width: 42em;
   margin: 3em auto 2em auto;
@@ -116,7 +116,7 @@ ul.posts {
   }
 
   .site .footer {
-    font-size: 80%;
+    font-size: 100%;
     color: #666;
     border-top: 4px solid #eee;
     margin-top: 2em;
@@ -130,16 +130,6 @@ ul.posts {
 
       .site .footer .contact a {
         color: #8085C1;
-      }
-
-    .site .footer .rss {
-      margin-top: 1.1em;
-      margin-right: -.2em;
-      float: right;
-    }
-
-      .site .footer .rss img {
-        border: 0;
       }
 
 /*****************************************************************************/
